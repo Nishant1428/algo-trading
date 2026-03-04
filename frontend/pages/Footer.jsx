@@ -22,6 +22,7 @@ function Footer() {
         border-2
         ml-[300px]
         "
+        onClick={()=>window.location.href = "https://webinar.dilsetrader.in/add-to-cart/dstkvfFeb?code="}
             >
               <span className="text-white text-[20px] flex ml-10">
                 Register Now <p className="text-red-400"> @Rs.99.00/- </p>Only
